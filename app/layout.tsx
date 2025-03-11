@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin", "cyrillic"] })
 export const metadata: Metadata = {
   title: {
     default: "Courier - Логистические и транспортные услуги",
-    template: "%s | Courier",
+    template: "% | Courier",
   },
   description:
     "Профессиональные услуги в сфере грузоперевозок, туризма и консалтинга. Надежные решения для вашего бизнеса.",
